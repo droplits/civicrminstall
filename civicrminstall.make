@@ -41,6 +41,6 @@ projects[singular][location] = "http://code.developmentseed.org/fserver"
 ; Libraries
 
 projects[civicrm][type] = "module"
-projects[civicrm][subdir] = "civicrm"
 projects[civicrm][download][type] = "svn"
-projects[civicrm][download][url] = "http://svn.civicrm.org/civicrm/branches/v3.0/"
+projects[civicrm][download][url] = "http://svn.civicrm.org/civicrm/tags/tarballs/3.0.2/"
+projects[civicrm][destination] = modules/civicrm
